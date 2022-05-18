@@ -10,7 +10,7 @@
 
 - **매개변수**: 그 다음은 웹서버에 보내는 추가 매개변수(Query 또는 Parameters)가 온다.
 
-- **부분식별자**: 마지막으로 #으로 시작하는 부분 식별자(fragment identifier)가 온다.
+- **부분식별자**: 마지막으로 #으로 시작하는 부분 식별자(fragment identifier)가 온다.<br/><br/>
 
 ![url_image](https://www.betterweb.or.kr/wp-content/uploads/2020/09/url-colored-768x69.png)<br/><br/><br/><br/>
 
