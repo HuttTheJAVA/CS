@@ -82,3 +82,10 @@ Request Method (요청의 종류)
 ![404](https://t1.daumcdn.net/cfile/tistory/24376236585A2C7105)<br/><br/>
 # 505 error
 ![505](https://sir.kr/data/editor/1804/1889783606_1524168709.6057.png)<br/><br/>
+
+
+#출처
+(https://velog.io/@surim014/HTTP%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+(https://felix-escape.tistory.com/226)
+(https://sir.kr/qa/241858)
+
