@@ -1,0 +1,21 @@
+# 호스트 네임과 도메인 네임의 차이
+
+![host&domain](https://velog.velcdn.com/images%2Fminjae-mj%2Fpost%2Fcddacd52-b32e-4eaf-9825-d3bc6fa1c247%2FGroup%203.png)
+
+여기서 전체 주소 도메인 네임 - FQDN (fully qualified domain name) - 을 추출할 경우,  
+
+호스트 네임과 도메인 네임, 탑레벨 도메인을 모두 합친 www.example.com 가 된다.  
+
+이 주소는 DNS 상에서 노드의 정확한 위치를 나타내므로 unique 해야 한다.
+
+host name 은 각 네트워크 디바이스(컴퓨터)에 할당되는 이름이고, domain 은 네트워크에 부여되는 이름이다.  
+
+인터넷과 같은 외부에서 네트워크에 접속하려면 domain 이 필요하다.  
+
+우리가 잘 아는 www, mail.naver.com 의 mail, en.wikipedia.org 의 en 은 모두 호스트 네임에 해당하고,  naver.com 과 wikipedia.org 는 도메인에 해당한다.
+
+홈 네트워크에서 en.wikipedia.org 로 접속하고자 할 때, 도메인 부분이 위키피디아 네트워크로 안내해주고, 호스트 네임 부분이 정확한 지점으로 안내해주는 역할을 한다.
+
+-----
+## 출처
+* https://velog.io/@minjae-mj/%ED%98%B8%EC%8A%A4%ED%8A%B8-%EB%84%A4%EC%9E%84%EA%B3%BC-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%84%A4%EC%9E%84
